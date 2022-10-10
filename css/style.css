@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(3, 37, 75);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  height: 250px;
+  width: 500px;
+  border-radius: 0px 275px 0px 275px;
+  margin: 60px auto;
+  padding: 50px;
+  text-align: center;
+  background-color: rgba(8, 91, 185, 0.644);
+}
+
+.box h2 {
+  font-size: 40px;
+  font-weight: 700px;
+  color: rgb(213, 216, 11);
+  text-decoration: underline;
+}
+
+#clock {
+  font-size: 60px;
+  font-weight: 900px;
+  color: rgb(213, 216, 11);
+}
